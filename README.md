@@ -1,2 +1,2 @@
 # ARDUINO - Biometric Login System
-This device can be embedded with Web, Desktop and Mobile portal.
+This system makes a bridge between Web, Desktop and Mobile portal. The device and portal communicating Arduino by PHP.
